@@ -24,8 +24,6 @@ We predict `success` using engineered features, textual cues, and classification
 
 The dataset is based on real Kickstarter campaigns and includes information for over **100,000 projects** from **2009 to 2014**. It is structured into training and test splits, with each row representing a single crowdfunding campaign.
 
----
-
 🔄 Dataset Breakdown
 
 | File Name              | Description                                                           |
@@ -33,8 +31,6 @@ The dataset is based on real Kickstarter campaigns and includes information for 
 | `small_training_X.csv` | 10,000 Kickstarter projects (feature data) for training and exploration |
 | `small_training_y.csv` | Labels (YES/NO) for whether each project was successful                |
 | `ks_test_X.csv`        | Test data (without true labels) used for final prediction              |
-
----
 
 🏷️ Target Variable
 
