@@ -1,0 +1,14 @@
+caret
+sentimentr
+tidytext
+text2vec
+stringr
+rvest
+FSelector
+rJava
+DMwR
+smotefamily
+xgboost
+ranger
+vip
+pROC
