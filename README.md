@@ -66,12 +66,3 @@ The dataset is based on real Kickstarter campaigns and includes information for 
 - Accuracy and AUC used for comparison
 - Final model tuned using hyperparameter grid search
 
----
-
-### 📈 Results
-
-- **Best model:** XGBoost
-- **Best AUC:** 0.74 on validation
-- **Best Accuracy:** 72.5%
-- Significant features included sentiment polarity, reward structure, launch weekday, and project length
-
